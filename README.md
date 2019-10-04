@@ -40,12 +40,12 @@ Source : https://github.com/ngnamuit/sample-python-api
 
 - Kong là 1 api gateway hay 1 api middelware  recomment khi sử dụng microservices.
 - Các tính năng kong match với nhu cầu hiện tại như:
-    + Có UI manage endpoints, document cho enpoints (Restful Administrator API).
-    + Dễ dàng mở rộng và quản lý.
-    + Có JWT token để cấp phát sign (cơ bản) và thu hồi sign (bản enteprise có phí).
-- Hạn chế khi sử dụng kong:
-    + Chưa có nhân sự có kinh nghiệm sử dụng kong, tốn nhiều thời gian research để phát triển và control.
-    + Cần 1 database riêng cho kong.
+    - Có UI manage endpoints, document cho enpoints (Restful Administrator API).
+    - Dễ dàng mở rộng và quản lý.
+    - Có JWT token để cấp phát sign (cơ bản) và thu hồi sign (bản enteprise có phí).
+- Hạn chế khi sử dụng kong: -
+    - Chưa có nhân sự có kinh nghiệm sử dụng kong, tốn nhiều thời gian research để phát triển và control.
+    - Cần 1 database riêng cho kong.
 
 ## III. Technical improvement for REST.
 
